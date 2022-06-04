@@ -158,6 +158,7 @@
 <h2 align="left" id="github-dev-metrics">Dev Metrics</h2>
 
 <!--START_SECTION:waka-->
+
 <!--END_SECTION:waka-->
 
 <h2 align="left" id="github-trophies">Github Trophies</h2>
