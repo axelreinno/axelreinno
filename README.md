@@ -159,6 +159,15 @@
 
 <!--START_SECTION:waka-->
 
+```text
+YAML                       22 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
+Markdown                   15 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.04 %
+Vue.js                     13 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.78 %
+Docker                     8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+JSON                       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 %
+Other                      6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2 align="left" id="github-trophies">Github Trophies</h2>
