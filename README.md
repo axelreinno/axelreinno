@@ -160,10 +160,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-JSON         4 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.67 %
-Vue.js       4 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-TypeScript   3 hrs 15 mins   ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-Other        3 hrs 5 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+JSON         2 hrs 13 mins   █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Other        2 hrs 10 mins   █████░░░░░░░░░░░░░░░░░░░░   19.99 %
 ```
 
 <!--END_SECTION:waka-->
