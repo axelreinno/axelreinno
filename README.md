@@ -3,12 +3,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=axelreinno&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="left">About Me</h2>
-
--   🔭 I’m currently working on Nostra Technology
--   🌱 I’m currently learning micro frontend and keep explore about new web technology
--   💬 Ask me about web and frontend technology
--   ⚡ Fun fact it's all about 0 and 1
+![Metrics](https://metrics.lecoq.io/axelreinno?template=classic&isocalendar=1&languages=1&stargazers=1&lines=1&stars=1&habits=1&followup=1&people=1&introduction=1&repositories=1&achievements=1&activity=1&code=1&gists=1&projects=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=true&pagespeed=false&pagespeed.url=https%3A%2F%2Faxelreinno.dev%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FJakarta&config.twemoji=true)
 
 <h2 align="left">Follow me on</h2>
 
@@ -131,31 +126,7 @@
   </tr>
 </table>
 
-<h2 align="left" id="github-stats">Github Stats</h2>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=axelreinno&hide_border=false&include_all_commits=true&count_private=false" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=axelreinno&hide_border=false" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelreinno&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<h2 align="left" id="github-dev-metrics">Dev Metrics</h2>
+<h2 align="left" id="github-dev-metrics">Metrics</h2>
 
 <!--START_SECTION:waka-->
 
@@ -170,16 +141,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<h2 align="left" id="github-trophies">Github Trophies</h2>
-
-![](https://github-profile-trophy.vercel.app/?username=axelreinno&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
-
-<h2 align="left" id="random-quotes">Random Dev Quote</h2>
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <h2 align="left" id="recently-played">Spotify Recently Played</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=bz73zlav9qr3k6twq1c88qqao)
 
-![Metrics](https://metrics.lecoq.io/axelreinno?template=classic&isocalendar=1&languages=1&stargazers=1&lines=1&stars=1&habits=1&followup=1&people=1&introduction=1&repositories=1&achievements=1&activity=1&code=1&gists=1&projects=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=true&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&introduction=false&introduction.title=true&repositories=false&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&gists=false&projects=false&projects.limit=4&projects.descriptions=true&pagespeed=false&pagespeed.url=https%3A%2F%2Faxelreinno.dev%2F&pagespeed.detailed=true&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Asia%2FJakarta&config.twemoji=true)
